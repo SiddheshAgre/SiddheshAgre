@@ -1,61 +1,73 @@
-<h1 align="center">👋 Hey, I'm Siddhesh Agre</h1>
+<h1 align="center">👋 Hi, I'm Siddhesh Agre</h1>
 <p align="center">
-  <strong>Aspiring Cloud & DevOps Engineer | AWS Enthusiast | Building Modern Cloud-native Apps</strong>
+  <em>Aspiring Cloud & DevOps Engineer | AWS Enthusiast | Building Modern Cloud-Native Apps</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhesh-agre/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:siddheshagre2122@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/siddhesh-agre">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ About Me
+- 🚀 Passionate about **Cloud, DevOps, and Serverless Applications**
+- 🐳 Experienced with **AWS, Docker, Terraform, Jenkins**
+- 💻 Building **modern, interactive apps** with Python, JavaScript, React
+- 🎯 Always learning & experimenting with **AI + Cloud integrations**
 
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **CoinScope** | Serverless app with Lambda + DynamoDB + API Gateway fetching real-time crypto prices | [GitHub](https://github.com/siddhesh-agre/CoinScope) |
-| **NextLeap.AI** | Modern SaaS-style landing page + AI-powered career recommendations | [GitHub](https://github.com/siddhesh-agre/NextLeap.AI) |
-| **Cloud Expense Notifier** | Automated AWS billing alerts via Lambda + SES | [GitHub](https://github.com/siddhesh-agre/Cloud-Expense-Notifier) |
-| **Student Entry Portal** | S3 static site + API Gateway + Lambda + DynamoDB integration | [GitHub](https://github.com/siddhesh-agre/Student-Entry-Portal) |
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img alt="Siddhesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=siddhesh-agre&show_icons=true&count_private=true&theme=tokyonight" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-agre&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/siddhesh-agre/CoinScope">
+    <img src="https://img.shields.io/badge/CoinScope-CryptoTracker-blue?style=for-the-badge&logo=ethereum" alt="CoinScope"/>
+  </a>
+  <a href="https://github.com/siddhesh-agre/NextLeap.AI">
+    <img src="https://img.shields.io/badge/NextLeap.AI-AIAdvisor-purple?style=for-the-badge&logo=python" alt="NextLeap.AI"/>
+  </a>
+  <a href="https://github.com/siddhesh-agre/Cloud-Expense-Notifier">
+    <img src="https://img.shields.io/badge/CloudExpenseNotifier-AWS-orange?style=for-the-badge&logo=aws" alt="Cloud Expense Notifier"/>
+  </a>
+  <a href="https://github.com/siddhesh-agre/Student-Entry-Portal">
+    <img src="https://img.shields.io/badge/StudentEntryPortal-DynamoDB-green?style=for-the-badge&logo=amazon-dynamodb" alt="Student Entry Portal"/>
+  </a>
 </p>
 
 ---
 
-## 💬 Connect With Me
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddhesh-agre/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:siddheshagre2122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhesh-agre&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhesh-agre&layout=compact&theme=highcontrast" alt="Top Languages"/>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhesh-agre&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
